@@ -23,8 +23,8 @@ Prerequisites:
 - Create a project on Supabase
     - (copy the Project URL and API Key, to use below in the .env file)
 
-Steps to run this repo:
-- Clone this repo
+Steps to run this repoo:
+- Clone this reppo12122
 - Duplicate the .env.example to .env file and paste the keys generated in the prerequisites as described above
 - run `npm i`
 - run `npm run dev`
